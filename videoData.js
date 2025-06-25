@@ -3,7 +3,8 @@ const videoData = [
     "lat": 48.045195,
     "lon": 36.749788,
     "title": "Освобождено село Ялта",
-    "date": "2025-06-25"
+    "date": "2025-06-25",
+    "video": "https://lostarmour.info/media/videos/news/40308.mp4"
   },
   {
     "lat": 48.7020936,

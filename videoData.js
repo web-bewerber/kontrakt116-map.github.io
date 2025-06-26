@@ -1,5 +1,40 @@
 const videoData = [
   {
+    "lat": 51.092487,
+    "lon": 34.916262,
+    "title": "Удар оптоволоконным FPV-дроном по БМП-1ТС ВСУ в районе н.п.&nbsp;",
+    "date": "2025-06-24",
+    "video": "https://lostarmour.info/media/videos/news/40328.mp4"
+  },
+  {
+    "lat": 48.827085,
+    "lon": 38.185488,
+    "title": "Штурм позиции ВСУ в районе н.п. Ивано-Дарьевка",
+    "date": "2025-06-24",
+    "video": "https://lostarmour.info/media/videos/news/40193.mp4"
+  },
+  {
+    "lat": 48.466551,
+    "lon": 37.365649,
+    "title": "Удар БПЛА-камикадзе Герань по ПВД ВСУ в н.п. Шахово",
+    "date": "2025-06-24",
+    "video": "https://lostarmour.info/media/videos/news/40191.mp4"
+  },
+  {
+    "lat": 48.325865,
+    "lon": 37.320716,
+    "title": "Уничтожение ББМ Козак ВСУ в районе н.п Новоэкономическое",
+    "date": "2025-06-24",
+    "video": "https://lostarmour.info/media/videos/news/40234.mp4"
+  },
+  {
+    "lat": 48.501829,
+    "lon": 37.348263,
+    "title": "Удар БПЛА-камикадзе Герань по складу БК ВСУ в н.п. Торецкое",
+    "date": "2025-06-24",
+    "video": "https://lostarmour.info/media/videos/news/40192.mp4"
+  },
+  {
     "lat": 51.0745054,
     "lon": 35.0965981,
     "title": "Авиаудар по позиции ВСУ в районе н.п. Садки",

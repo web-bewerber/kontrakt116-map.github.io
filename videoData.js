@@ -1,5 +1,75 @@
 const videoData = [
   {
+    "lat": 51.0745054,
+    "lon": 35.0965981,
+    "title": "Авиаудар по позиции ВСУ в районе н.п. Садки",
+    "date": "2025-06-25",
+    "video": "https://lostarmour.info/media/videos/news/40329.mp4"
+  },
+  {
+    "lat": 48.3551633,
+    "lon": 37.280699,
+    "title": "Авиаудар по позиции ВСУ в районе н.п. Новоэкономическое",
+    "date": "2025-06-25",
+    "video": "https://lostarmour.info/media/videos/news/40330.mp4"
+  },
+  {
+    "lat": 48.454276,
+    "lon": 37.35857,
+    "title": "Удар оптоволоконным FPV-дроном по Hamvee ВСУ в районе н. п. Октябрьское",
+    "date": "2025-06-25",
+    "video": "https://lostarmour.info/media/videos/news/40242.mp4"
+  },
+  {
+    "lat": 48.434104,
+    "lon": 37.786617,
+    "title": "Операторы ИЦПБТ 'Рубикон' уничтожают танк ВСУ",
+    "date": "2025-06-25",
+    "video": "https://lostarmour.info/media/videos/news/40323.mp4"
+  },
+  {
+    "lat": 48.7020936,
+    "lon": 37.6308133,
+    "title": "Удар БПЛА-камикадзе 'Герань' с оптической системой наведения по цели ВСУ в аэропорту Краматорска",
+    "date": "2025-06-25",
+    "video": "https://lostarmour.info/media/videos/news/40280.mp4"
+  },
+  {
+    "lat": 48.2553307,
+    "lon": 37.1791477,
+    "title": "Авиаудар по ПВД ВСУ в Красноармейске (Покровске)",
+    "date": "2025-06-25",
+    "video": "https://lostarmour.info/media/videos/news/40326.mp4"
+  },
+  {
+    "lat": 51.0745054,
+    "lon": 35.0965981,
+    "title": "Авиаудар по позиции ВСУ в районе н.п. Садки",
+    "date": "2025-06-25",
+    "video": "https://lostarmour.info/media/videos/news/40329.mp4"
+  },
+  {
+    "lat": 48.3551633,
+    "lon": 37.280699,
+    "title": "Авиаудар по позиции ВСУ в районе н.п. Новоэкономическое",
+    "date": "2025-06-25",
+    "video": "https://lostarmour.info/media/videos/news/40330.mp4"
+  },
+  {
+    "lat": 48.454276,
+    "lon": 37.35857,
+    "title": "Удар оптоволоконным FPV-дроном по Hamvee ВСУ в районе н. п. Октябрьское",
+    "date": "2025-06-25",
+    "video": "https://lostarmour.info/media/videos/news/40242.mp4"
+  },
+  {
+    "lat": 47.9085412,
+    "lon": 36.678055,
+    "title": "Поселок Шевченко освобожден!",
+    "date": "2025-06-26",
+    "video": "https://lostarmour.info/media/videos/news/40332.mp4"
+  },
+  {
     "lat": 48.045195,
     "lon": 36.749788,
     "title": "Освобождено село Ялта",
